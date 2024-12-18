@@ -25,13 +25,13 @@
 
 渡过这个痛苦的时期，第一周就该结束了。
 
-- [第1天：从计算机结构到汇编程序入门](https://github.com/yourtion/30dayMakeOS/releases/tag/Day01)
-- [第2天：汇编语言学习与Makefile入门](https://github.com/yourtion/30dayMakeOS/releases/tag/Day02)
-- [第3天：进入32位模式并导入C语言](https://github.com/yourtion/30dayMakeOS/releases/tag/Day03)
-- [第4天：C语言与画面显示的练习](https://github.com/yourtion/30dayMakeOS/releases/tag/Day04)
-- [第5天：结构体、文字显示与GDT/IDT初始化](https://github.com/yourtion/30dayMakeOS/releases/tag/Day05)
-- [第6天：分割编译与中断处理](https://github.com/yourtion/30dayMakeOS/releases/tag/Day06)
-- [第7天：FIFO与鼠标控制](https://github.com/yourtion/30dayMakeOS/releases/tag/Day07)
+- [第1天：从计算机结构到汇编程序入门](https://github.com/shengjk/30dayMakeOS/tree/master/01_day)
+- [第2天：汇编语言学习与Makefile入门](https://github.com/shengjk/30dayMakeOS/tree/master/02_day)
+- [第3天：进入32位模式并导入C语言](https://github.com/shengjk/30dayMakeOS/tree/master/03_day)
+- [第4天：C语言与画面显示的练习](https://github.com/shengjk/30dayMakeOS/tree/master/04_day)
+- [第5天：结构体、文字显示与GDT/IDT初始化](https://github.com/shengjk/30dayMakeOS/tree/master/05_day)
+- [第6天：分割编译与中断处理](https://github.com/shengjk/30dayMakeOS/tree/master/06_day)
+- [第7天：FIFO与鼠标控制](https://github.com/shengjk/30dayMakeOS/tree/master/07_day)
 
 ### 第二周（第8天～第14天）
 
@@ -41,13 +41,13 @@
 
 所以这一周我们就边学习算法边慢慢地开发操作系统。不过到了这一阶段，我们就能感觉到基本上不会再受技术问题限制了。
 
-- [第8天：鼠标控制与32位模式切换](https://github.com/yourtion/30dayMakeOS/releases/tag/Day08)
-- [第9天：内存管理](https://github.com/yourtion/30dayMakeOS/releases/tag/Day09)
-- [第10天：叠加处理](https://github.com/yourtion/30dayMakeOS/releases/tag/Day10)
-- [第11天：制作窗口](https://github.com/yourtion/30dayMakeOS/releases/tag/Day11)
-- [第12天：定时器（1）](https://github.com/yourtion/30dayMakeOS/releases/tag/Day12)
-- [第13天：定时器（2）](https://github.com/yourtion/30dayMakeOS/releases/tag/Day13)
-- [第14天：高分辨率及键盘输入](https://github.com/yourtion/30dayMakeOS/releases/tag/Day14)
+- [第8天：鼠标控制与32位模式切换](https://github.com/shengjk/30dayMakeOS/tree/master/08_day)
+- [第9天：内存管理](https://github.com/shengjk/30dayMakeOS/tree/master/09_day)
+- [第10天：叠加处理](https://github.com/shengjk/30dayMakeOS/tree/master/10_day)
+- [第11天：制作窗口](https://github.com/shengjk/30dayMakeOS/tree/master/11_day)
+- [第12天：定时器（1）](https://github.com/shengjk/30dayMakeOS/tree/master/12_day)
+- [第13天：定时器（2）](https://github.com/shengjk/30dayMakeOS/tree/master/13_day)
+- [第14天：高分辨率及键盘输入](https://github.com/shengjk/30dayMakeOS/tree/master/14_day)
 
 ### 第三周（第15天～第21天）
 
@@ -55,13 +55,13 @@
 
 到本周结束时，就算还不够完备，我们也能拿出一个可以称之为操作系统的软件了。
 
-- [第15天：多任务（1）](https://github.com/yourtion/30dayMakeOS/releases/tag/Day15)
-- [第16天：多任务（2）](https://github.com/yourtion/30dayMakeOS/releases/tag/Day16)
-- [第17天：命令行窗口](https://github.com/yourtion/30dayMakeOS/releases/tag/Day17)
-- [第18天：dir命令](https://github.com/yourtion/30dayMakeOS/releases/tag/Day18)
-- [第19天：应用程序](https://github.com/yourtion/30dayMakeOS/releases/tag/Day19)
-- [第20天：API](https://github.com/yourtion/30dayMakeOS/releases/tag/Day20)
-- [第21天：保护操作系统](https://github.com/yourtion/30dayMakeOS/releases/tag/Day21)
+- [第15天：多任务（1）](https://github.com/shengjk/30dayMakeOS/tree/master/15_day)
+- [第16天：多任务（2）](https://github.com/shengjk/30dayMakeOS/tree/master/16_day)
+- [第17天：命令行窗口](https://github.com/shengjk/30dayMakeOS/tree/master/17_day)
+- [第18天：dir命令](https://github.com/shengjk/30dayMakeOS/tree/master/18_day)
+- [第19天：应用程序](https://github.com/shengjk/30dayMakeOS/tree/master/19_day)
+- [第20天：API](https://github.com/shengjk/30dayMakeOS/tree/master/20_day)
+- [第21天：保护操作系统](https://github.com/shengjk/30dayMakeOS/tree/master/21_day)
 
 ### 第四周（第22天～第28天）
 
@@ -71,18 +71,18 @@
 
 对了，说起文字才想起来，正好在这个时期可以让我们的操作系统显示文字了。
 
-- [第22天：用C语言编写应用程序](https://github.com/yourtion/30dayMakeOS/releases/tag/Day22)
-- [第23天：图形处理相关](https://github.com/yourtion/30dayMakeOS/releases/tag/Day23)
-- [第24天：窗口操作](https://github.com/yourtion/30dayMakeOS/releases/tag/Day24)
-- [第25天：增加命令行窗口](https://github.com/yourtion/30dayMakeOS/releases/tag/Day25)
-- [第26天：为窗口移动提速](https://github.com/yourtion/30dayMakeOS/releases/tag/Day26)
-- [第27天：LDT与库](https://github.com/yourtion/30dayMakeOS/releases/tag/Day27)
-- [第28天：文件操作与文字显示](https://github.com/yourtion/30dayMakeOS/releases/tag/Day28)
+- [第22天：用C语言编写应用程序](https://github.com/shengjk/30dayMakeOS/tree/master/22_day)
+- [第23天：图形处理相关](https://github.com/shengjk/30dayMakeOS/tree/master/23_day)
+- [第24天：窗口操作](https://github.com/shengjk/30dayMakeOS/tree/master/24_day)
+- [第25天：增加命令行窗口](https://github.com/shengjk/30dayMakeOS/tree/master/25_day)
+- [第26天：为窗口移动提速](https://github.com/shengjk/30dayMakeOS/tree/master/26_day)
+- [第27天：LDT与库](https://github.com/shengjk/30dayMakeOS/tree/master/27_day)
+- [第28天：文件操作与文字显示](https://github.com/shengjk/30dayMakeOS/tree/master/28_day)
 
 
 ### 免费赠送两天（第29天～第30天）
 
 剩下的两天用来润色加工。这两天我们来做一些之前没来得及做，但做起来既简单又有趣的内容。
 
-- [第29天：压缩与简单的应用程序](https://github.com/yourtion/30dayMakeOS/releases/tag/Day29)
-- [第30天：高级的应用程序](https://github.com/yourtion/30dayMakeOS/releases/tag/Day30)
+- [第29天：压缩与简单的应用程序](https://github.com/shengjk/30dayMakeOS/tree/master/29_day)
+- [第30天：高级的应用程序](https://github.com/shengjk/30dayMakeOS/tree/master/30_day)
